@@ -61,7 +61,7 @@ Evaluation was run on **100 samples** from MedQA:
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
-```bash
+
 git clone https://github.com/your-username/MedQA-RAG.git
 cd MedQA-RAG
 
@@ -119,4 +119,5 @@ Aspirin can cause gastrointestinal bleeding, ulcers, and hypersensitivity reacti
 Groundedness: 0.62
 Citations:
  - [PMID:12345678] Aspirin and GI complications
+
  - [PMID:98765432] Hypersensitivity to salicylates
