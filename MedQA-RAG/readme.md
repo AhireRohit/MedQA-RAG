@@ -62,7 +62,7 @@ Evaluation was run on **100 samples** from MedQA:
 
 ### 1. Clone the repo
 
-git clone https://github.com/your-username/MedQA-RAG.git
+git clone https://github.com/AhireRohit/MedQA-RAG.git
 cd MedQA-RAG
 
 2. Install dependencies
@@ -121,3 +121,4 @@ Citations:
  - [PMID:12345678] Aspirin and GI complications
 
  - [PMID:98765432] Hypersensitivity to salicylates
+
